@@ -1,0 +1,30 @@
+8
+r
+s
+t
+u
+v
+w
+x
+y
+20
+r v
+v r
+r s
+s r
+s w
+w s
+w t
+t w
+w x
+x w
+t x
+x t
+t u
+u t
+x u
+u x
+x y
+y x
+u y
+y u
